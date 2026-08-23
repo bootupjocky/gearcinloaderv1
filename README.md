@@ -6,7 +6,7 @@
 * chmod +x gearcin_loader
 * ./gearcin_loader
 
-![Screenshot_1.png]
+![Screenshot_1.png](images)
 
 
 by bootupjocky
