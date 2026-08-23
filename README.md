@@ -1,2 +1,9 @@
-# gearcinloaderv1
-G e r a c i n - - - L o a d e r - - - V1 - - - by bootupjocky
+## G e a r c i n --- L o a d e r--- v1
+
+
+## How to launch!
+* sudo apt update && sudo apt install libwayland-client0 libxkbcommon0 libx11-6 -y
+* chmod +x gearcin_loader
+* ./gearcin_loader
+
+by bootupjocky
